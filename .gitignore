@@ -1,0 +1,30 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.VC.db
+*.VC.VC.opendb
+
+*.log
+*.tmp
+
+.DS_Store
+
+.vscode/
+.idea/
+
+# Visual Studio cache
+.vs/
+*.ipch
+
+# assets/maps/Casino_Free
+/assets/maps/Casino_Free/s
+
+# assets/maps/Stylized_Lowpoly_City
+/assets/maps/Stylized_Lowpoly_City/s
